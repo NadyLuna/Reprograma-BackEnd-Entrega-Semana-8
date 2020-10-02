@@ -1,0 +1,79 @@
+[
+    {
+        "nomeDaSerie": "La Casa de Papel",
+        "Gênero": ["Crime", "Assalto", "Suspense", "Mistério"],
+        "NúmeroDeTemporadas": 4,
+        "Criador(es)": "Álex Pina",
+        "Origem": "Espanha"
+    },
+    {
+        "nomeDaSerie": "Sherlock",
+        "Gênero": "Drama policial",
+        "NúmeroDeTemporadas": 4,
+        "Criador(es)": ["Steven Moffat","Mark Gatiss"],
+        "Origem": "Reino Unido"
+    },
+    {
+        "nomeDaSerie": "The Good Doctor",
+        "Gênero": "Drama médico",
+        "NúmeroDeTemporadas": 3,
+        "Criador(es)": "David Shore",
+        "Origem": "Estados Unidos"
+    },
+    {
+        "nomeDaSerie": "House M.D",
+        "Gênero": "Drama médico",
+        "NúmeroDeTemporadas": 8,
+        "Criador(es)": "David Shore",
+        "Origem": "Estados Unidos"
+    },
+    {
+        "nomeDaSerie": "Dexter",
+        "Gênero": "Drama criminal",
+        "NúmeroDeTemporadas": 8,
+        "Criador(es)": "James Manos, Jr.",
+        "Origem": "Estados Unidos"
+    },
+    {
+        "nomeDaSerie": "Breaking Bad",
+        "Gênero": ["ação", "suspense","drama", "crime"],
+        "NúmeroDeTemporadas": 5,
+        "Criador(es)": "Vince Gilligan",
+        "Origem": "Estados Unidos"
+    },
+    {
+        "nomeDaSerie": "Dark",
+        "Gênero": ["ficção científica", "suspense","drama"],
+        "NúmeroDeTemporadas": 5,
+        "Criador(es)": ["Baran bo Odar","Jantje Friese"],
+        "Origem": "Alemanha"
+    },
+    {
+        "nomeDaSerie": "Downton Abbey",
+        "Gênero": "Drama histórico",
+        "NúmeroDeTemporadas": 6,
+        "Criador(es)": "Julian Fellowes",
+        "Origem": "Reino Unido"
+    },
+    {
+        "nomeDaSerie": "The Simpsons",
+        "Gênero": ["animação","comédia de situação sátira"],
+        "NúmeroDeTemporadas": 31,
+        "Criador(es)": "Matt Groening",
+        "Origem": "Estados Unidos"
+    },
+    {
+        "nomeDaSerie": "Everybody Hates Chris",
+        "Gênero": "Comédia de situação",
+        "NúmeroDeTemporadas": 4,
+        "Criador(es)": ["Chris Rock", "Ali LeRoi"],
+        "Origem": "Estados Unidos"
+    },
+    {
+        "nomeDaSerie": "Anne with an E",
+        "Gênero": ["romance","drama", "aventura"],
+        "NúmeroDeTemporadas": 3,
+        "Criador(es)": "Moira Walley-Beckett",
+        "Origem": "Canadá"
+    }
+]
