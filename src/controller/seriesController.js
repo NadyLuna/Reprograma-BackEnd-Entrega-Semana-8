@@ -21,12 +21,17 @@ const getSeriesById = (req, res) => {
 const getSeriesByGenero = (req, res) => {
     const genero = req.params.genero
     const serieFiltradaGenero = series.filter((serie) => serie.genero == genero)
-
     res.status(200).send(serieFiltradaGenero);
+}
+
+const getAllNomeSeries = (req, res) => {
+    const nomeSerie = series.map((serie) => serie.nomeDaSerie)
+    res.status(200).send(nomeSerie)
 }
 
 module.exports = {
     getAllSeries,
     getSeriesById,
-    getSeriesByGenero
+    getSeriesByGenero,
+    getAllNomeSeries
 }

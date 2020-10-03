@@ -12,7 +12,7 @@ const series = require('./routes/seriesRoutes');
 
 
 app.use(express.static('public')) // para fazer a imagem o erro aparecer no Browser 
-app.use('/series', series); //endpoint
+
 
 app.get('/series', (req, res) => {
     res.status(200).sendFile('./views/index.html', { root: __dirname })

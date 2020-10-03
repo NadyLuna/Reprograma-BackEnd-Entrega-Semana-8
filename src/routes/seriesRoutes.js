@@ -12,8 +12,11 @@ const express = require('express');
 const route = express.Router();
 const controller = require('../controller/seriesController');
 
+
 route.get('/series', controller.getAllSeries);
+route.get('/nomeSerie', controller.getAllNomeSeries);
 route.get('/:id', controller.getSeriesById); 
 route.get('/genero/:genero', controller.getSeriesByGenero); 
+
 
 module.exports = route; // chamada da função linha 12
