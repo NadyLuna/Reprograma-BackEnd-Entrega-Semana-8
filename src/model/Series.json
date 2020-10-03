@@ -1,79 +1,90 @@
 [
     {
+        "id": 1,
         "nomeDaSerie": "La Casa de Papel",
-        "Gênero": ["Crime", "Assalto", "Suspense", "Mistério"],
-        "NúmeroDeTemporadas": 4,
-        "Criador(es)": "Álex Pina",
-        "Origem": "Espanha"
+        "genero": ["Crime", "Assalto", "Suspense", "Mistério"],
+        "numeroDeTemporadas": 4,
+        "criador(es)": "Álex Pina",
+        "origem": "Espanha"
     },
     {
+        "id": 2,
         "nomeDaSerie": "Sherlock",
-        "Gênero": "Drama policial",
-        "NúmeroDeTemporadas": 4,
-        "Criador(es)": ["Steven Moffat","Mark Gatiss"],
-        "Origem": "Reino Unido"
+        "genero": "Drama policial",
+        "numeroDeTemporadas": 4,
+        "criador(es)": ["Steven Moffat","Mark Gatiss"],
+        "origem": "Reino Unido"
     },
     {
+        "id": 3,
         "nomeDaSerie": "The Good Doctor",
-        "Gênero": "Drama médico",
-        "NúmeroDeTemporadas": 3,
+        "genero": "Drama médico",
+        "numeroDeTemporadas": 3,
         "Criador(es)": "David Shore",
         "Origem": "Estados Unidos"
     },
     {
+        "id": 4,
         "nomeDaSerie": "House M.D",
-        "Gênero": "Drama médico",
-        "NúmeroDeTemporadas": 8,
-        "Criador(es)": "David Shore",
-        "Origem": "Estados Unidos"
+        "genero": "Drama médico",
+        "numeroDeTemporadas": 8,
+        "criador(es)": "David Shore",
+        "origem": "Estados Unidos"
     },
     {
+        "id": 5,
         "nomeDaSerie": "Dexter",
-        "Gênero": "Drama criminal",
-        "NúmeroDeTemporadas": 8,
-        "Criador(es)": "James Manos, Jr.",
-        "Origem": "Estados Unidos"
+        "genero": "Drama criminal",
+        "numeroDeTemporadas": 8,
+        "criador(es)": "James Manos, Jr.",
+        "origem": "Estados Unidos"
     },
     {
+        "id": 6,
         "nomeDaSerie": "Breaking Bad",
-        "Gênero": ["ação", "suspense","drama", "crime"],
-        "NúmeroDeTemporadas": 5,
-        "Criador(es)": "Vince Gilligan",
-        "Origem": "Estados Unidos"
+        "genero": ["ação", "suspense","drama", "crime"],
+        "numeroDeTemporadas": 5,
+        "criador(es)": "Vince Gilligan",
+        "origem": "Estados Unidos"
     },
     {
+        "id": 7,
         "nomeDaSerie": "Dark",
-        "Gênero": ["ficção científica", "suspense","drama"],
-        "NúmeroDeTemporadas": 5,
-        "Criador(es)": ["Baran bo Odar","Jantje Friese"],
-        "Origem": "Alemanha"
+        "genero": ["ficção científica", "suspense","drama"],
+        "numeroDeTemporadas": 5,
+        "criador(es)": ["Baran bo Odar","Jantje Friese"],
+        "origem": "Alemanha"
     },
     {
+        "id": 8,
         "nomeDaSerie": "Downton Abbey",
-        "Gênero": "Drama histórico",
-        "NúmeroDeTemporadas": 6,
-        "Criador(es)": "Julian Fellowes",
-        "Origem": "Reino Unido"
+        "genero": "Drama histórico",
+        "numeroDeTemporadas": 6,
+        "criador(es)": "Julian Fellowes",
+        "origem": "Reino Unido"
     },
     {
+        "id": 9,
         "nomeDaSerie": "The Simpsons",
-        "Gênero": ["animação","comédia de situação sátira"],
-        "NúmeroDeTemporadas": 31,
-        "Criador(es)": "Matt Groening",
-        "Origem": "Estados Unidos"
+        "genero": ["animação","comédia de situação sátira"],
+        "NumeroDeTemporadas": 31,
+        "criador(es)": "Matt Groening",
+        "origem": "Estados Unidos"
     },
     {
+        "id": 10,
         "nomeDaSerie": "Everybody Hates Chris",
-        "Gênero": "Comédia de situação",
-        "NúmeroDeTemporadas": 4,
-        "Criador(es)": ["Chris Rock", "Ali LeRoi"],
-        "Origem": "Estados Unidos"
+        "genero": "Comédia de situação",
+        "numeroDeTemporadas": 4,
+        "criador(es)": ["Chris Rock", "Ali LeRoi"],
+        "origem": "Estados Unidos"
     },
     {
+        "id": 11,
         "nomeDaSerie": "Anne with an E",
-        "Gênero": ["romance","drama", "aventura"],
-        "NúmeroDeTemporadas": 3,
-        "Criador(es)": "Moira Walley-Beckett",
-        "Origem": "Canadá"
+        "genero": ["romance","drama", "aventura"],
+        "NumeroDeTemporadas": 3,
+        "criador(es)": "Moira Walley-Beckett",
+        "origem": "Canadá"
     }
 ]
