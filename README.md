@@ -29,4 +29,5 @@ pasta-do-projeto
 1- **M**odel: Onde vamos alimentar com o arquivo .json criado.  
 2- **C**ontroller: Onde iremos definir e exportar os métodos e o que será exibido para o usuário.  
 3- **R**outes: Onde iremos criar, adicionar e exportar as rotas.
-4- **A**pp: Configurações do aplicativo. Definição de rotas padrões. Quais as rotas que o usuário precisa ser autenticado ou não...
+4- **A**pp: Configurações do aplicativo. Definição de rotas padrões. Quais as rotas que o usuário precisa ser autenticado ou não, por exemplo.
+-5 **S**ever: Onde será criado o servidor e a definição da porta.

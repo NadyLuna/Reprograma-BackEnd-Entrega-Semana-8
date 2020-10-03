@@ -9,7 +9,7 @@ const series = require("../model/series.json");
 const getAllSeries = (req, res) => {
     console.log(req.url); // verifica se a resposta tem status 200 (sucesso) e envia o JSON
     res.status(200).send(series);
-};
+}
 
 const getSeriesById = (req, res) => {
     const id = req.params.id
@@ -18,7 +18,15 @@ const getSeriesById = (req, res) => {
     res.status(200).send(serieFiltrada)
 }
 
+const getSeriesByGenero = (req, res) => {
+    const genero = req.params.genero
+    const serieFiltradaGenero = series.filter((serie) => serie.genero == genero)
+
+    res.status(200).send(serieFiltradaGenero);
+}
+
 module.exports = {
     getAllSeries,
-    getSeriesById
-};
+    getSeriesById,
+    getSeriesByGenero
+}
